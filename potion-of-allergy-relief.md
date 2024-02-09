@@ -25,4 +25,4 @@ With sufficient time and access to the appropriate raw materials, skilled herbal
 
 ---
 
-_Source: [dnd5e-allergies](https://github.com/mpanighetti/dnd5e-allergies)_
+_Source: [Allergies](https://github.com/mpanighetti/dnd5e-allergies)_
