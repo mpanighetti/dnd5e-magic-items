@@ -4,6 +4,8 @@ A collection of homebrew 5e magic items.
 
 ## Resources
 
+If a resource was written for another 5e homebrew document, it will include a link to the source at the bottom of its page.
+
 ### Magic Items
 
 - [Potion of Allergy Relief](potion-of-allergy-relief.md)
