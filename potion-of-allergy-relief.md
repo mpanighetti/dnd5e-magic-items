@@ -22,3 +22,7 @@ Even if a given world includes plants with allergy relief properties, they are u
 ## Crafting
 
 With sufficient time and access to the appropriate raw materials, skilled herbalists can create a _potion of allergy relief_ by using the crafting downtime activity mechanic. This requires proficiency with an herbalism kit and access to allergy-relieving herbs. The act of locating and gathering the herbs for processing into a single potion might be the foundation of its own difficult quest.
+
+---
+
+_Source: [dnd5e-allergies](https://github.com/mpanighetti/dnd5e-allergies)_
