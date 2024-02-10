@@ -8,7 +8,14 @@ If a resource was written for another 5e homebrew document, it will include a li
 
 ### Magic Items
 
-- [Potion of Allergy Relief](potion-of-allergy-relief.md)
+#### Potions
+
+- [Potion of Allergy Relief](potions/potion-of-allergy-relief.md) (uncommon)
+
+#### Weapons
+
+- Angel Blade (rare, requires attunement)
+- Blade of Grass (legendary, requires attunement)
 
 ## Credits
 
