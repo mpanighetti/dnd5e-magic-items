@@ -16,4 +16,4 @@ Even after falling from grace, an angel will typically retain ownership of their
 
 ---
 
-_Source: [Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/030crc)_
+_Source: [Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_
