@@ -15,7 +15,7 @@ If a resource was written for another 5e homebrew document, it will include a li
 #### Weapons
 
 - [Angel Blade](weapons/angel-blade.md) (rare, requires attunement)
-- Blade of Grass (legendary, requires attunement)
+- [Blade of Grass](weapons/blade-of-grass.md) (legendary, requires attunement)
 
 ## Credits
 
