@@ -4,7 +4,7 @@
 
 _Wondrous item, uncommon (requires attunement by someone other than the original selkie)_
 
-To the casual observer, this item looks identical to the pelt of a Malagwan seal, but it is in fact the skin of a selkie that has doffed its seal form. When a creature attunes to the selkie skin, the selkie from which the skin was acquired becomes charmed by the attuned creature. This condition lasts until the creature is no longer attuned to the skin, or until it is destroyed, either by dealing damage to it (AC 11, 3 hit points) or if it is ever on a separate plane of existence from the selkie. No spell or other effect can end the charmed condition caused by this magic item.
+To the casual observer, this item looks identical to the pelt of a Malagwan seal, but it is in fact the skin of a selkie that has doffed its seal form. When a creature attunes to the selkie skin, the selkie from which the skin was acquired becomes charmed by the attuned creature. This condition lasts until the creature is no longer attuned to the skin, or until the skin is destroyed, either by dealing damage to it (AC 11, 3 hit points) or if it is ever on a separate plane of existence from the selkie. No spell or other effect can end the charmed condition caused by this magic item.
 
 #### Description
 
