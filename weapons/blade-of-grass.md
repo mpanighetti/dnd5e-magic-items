@@ -1,8 +1,6 @@
 # Blade of Grass
 
 #### Attributes
-
-**Blade of Grass**
  
 _Weapon (longsword), legendary, requires attunement_
  

@@ -17,6 +17,10 @@ If a resource was written for another 5e homebrew document, it will include a li
 - [Angel Blade](weapons/angel-blade.md) (rare, requires attunement)
 - [Blade of Grass](weapons/blade-of-grass.md) (legendary, requires attunement)
 
+#### Wondrous Items
+
+- [Selkie Skin](wondrous-items/selkie-skin.md) (uncommon, requires attunement by someone other than the original selkie)
+
 ## Credits
 
 ### Writing and Gameplay

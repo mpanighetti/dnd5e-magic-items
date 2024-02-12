@@ -1,8 +1,6 @@
 # Potion of Allergy Relief
 
 #### Attributes
-
-**Potion of Allergy Relief**
  
 _Potion, uncommon_
  

@@ -1,8 +1,6 @@
 # Angel Blade
 
 #### Attributes
-
-**Angel Blade**
  
 _Weapon (longsword), rare, requires attunement_
  
