@@ -8,6 +8,8 @@ If a resource was written for another 5e homebrew document, it will include a li
 
 ### Magic Items
 
+Magic items are arranged by category and listed alphabetically.
+
 #### Potions
 
 - [Potion of Allergy Relief](potions/potion-of-allergy-relief.md) (uncommon)
