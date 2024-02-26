@@ -12,4 +12,4 @@ A selkie transforms into their person form by literally shedding the skin of the
 
 ---
 
-_Source: [Selkies](https://github.com/mpanighetti/dnd5e-selkies)_
+_Source: [Mote](https://github.com/mpanighetti/dnd5e-mote)_
