@@ -21,7 +21,7 @@ Magic items are arranged by category and listed alphabetically.
 
 #### Wondrous Items
 
-- [Crown of Annelid Affection](wondrous-items/crown-of-annelid-affection.md)
+- [Crown of Annelid Affection](wondrous-items/crown-of-annelid-affection.md) (uncommon, requires attunement)
 - [Selkie Skin](wondrous-items/selkie-skin.md) (uncommon, requires attunement by someone other than the original selkie)
 
 ## Credits
