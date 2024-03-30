@@ -23,6 +23,7 @@ Magic items are arranged by category and listed alphabetically.
 
 - [Crown of Annelid Affection](wondrous-items/crown-of-annelid-affection.md) (uncommon, requires attunement)
 - [Selkie Skin](wondrous-items/selkie-skin.md) (uncommon, requires attunement by someone other than the original selkie)
+- [Wraps of Angelo](wondrous-items/wraps-of-angelo.md) (artifact, requires attunement by a monk)
 
 ## Credits
 
