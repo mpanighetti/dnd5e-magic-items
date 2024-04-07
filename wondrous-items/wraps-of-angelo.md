@@ -10,7 +10,7 @@ _**Heroic Knowledge.**_ The wraps impart you with knowledge of Angelo's adventur
 
 _**Psionic Entanglement.**_ The wraps cannot be moved more than 10 feet apart from each other and are considered to be a single magic item.
 
-_**Shared Discipline.**_ The wraps grants you a portion of Angelo's power and mental discipline. The wraps have 5 charges that can be spent on some of the wrap's properties. These charges can also be used as Discipline Points, and you can spend and combine them with any Discipline Points you already have from another source. The wraps regain all expended charges daily at dawn, but you can also use your Discipline Points in place of charges.
+_**Shared Discipline.**_ The wraps grant you a portion of Angelo's power and mental discipline. The wraps have 5 charges that can be spent on some of the wrap's properties. These charges can also be used as Discipline Points, and you can spend and combine them with any Discipline Points you already have from another source. The wraps regain all expended charges daily at dawn, but you can also use your Discipline Points in place of charges.
 
 _**Infused Strikes.**_ You can enhance your attacks with psionic energy. Each time you hit a creature with an unarmed strike, you grapple a creature, or a creature fails a check to escape your grapple, you can choose to expend up to 3 charges and roll that number of Martial Arts dice. You deal psychic damage to the target of your grapple or attack equal to the number rolled.
 
