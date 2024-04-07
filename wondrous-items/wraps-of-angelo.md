@@ -10,9 +10,11 @@ _**Heroic Knowledge.**_ The wraps impart you with knowledge of Angelo's adventur
 
 _**Psionic Entanglement.**_ The wraps cannot be moved more than 10 feet apart from each other and are considered to be a single magic item.
 
-_**Reactive Healing.**_ You gain the ability to redirect the power of strikes and magical harm into healing energy. As a Reaction when you take damage from a weapon or spell, you can spend up to 5 Discipline Points and roll that number of Martial Arts dice. You regain a number of hit points equal to the number rolled plus your Wisdom modifier.
+_**Shared Discipline.**_ The wraps grants you a portion of Angelo's power and mental discipline. The wraps have 5 charges that can be spent on some of the wrap's properties. These charges can also be used as Discipline Points, and you can spend and combine them with any Discipline Points you already have from another source. The wraps regain all expended charges daily at dawn, but you can also use your Discipline Points in place of charges.
 
-_**Shared Discipline.**_ The wraps grants you a portion of Angelo's power and mental discipline. You gain an additional number of special Discipline Points equal to your Wisdom modifier (minimum 1). These special Discipline Points can be spent and combined with any Discipline Points you already have from another source. When you spend a special Discipline Point, it is unavailable until you finish a Long Rest, at the end of which you regain all your expended points.
+_**Infused Strikes.**_ You can enhance your attacks with psionic energy. Each time you hit a creature with an unarmed strike, you grapple a creature, or a creature fails a check to escape your grapple, you can choose to expend up to 3 charges and roll that number of Martial Arts dice. You deal psychic damage to the target of your grapple or attack equal to the number rolled.
+
+_**Reactive Healing.**_ You gain the ability to redirect the power of strikes and magical harm into healing energy. As a Reaction when you take damage from a weapon or spell, you can expend up to 5 charges and roll that number of Martial Arts dice. You regain a number of hit points equal to the number rolled plus your Wisdom modifier.
 
 _**Sentience.**_ The wraps of Angelo are a sentient chaotic good wondrous item with an Intelligence of 10, a Wisdom of 20, and a Charisma of 10. They are unable to sense their surroundings beyond their wielder.
 
