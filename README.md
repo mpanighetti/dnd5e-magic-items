@@ -45,3 +45,5 @@ Certain materials are included under fair use exemption of the U.S. Copyright La
 ## Third-Party Content References
 
 _[Systems Reference Document 5.1](https://dnd.wizards.com/resources/systems-reference-document)_ ("SRD 5.1") © 2016 Wizards of the Coast LLC. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).
+
+_Spelljammer: Adventures in Space_ © 2022 Wizards of the Coast LLC.
