@@ -31,7 +31,8 @@ Magic items are arranged by category and listed alphabetically.
 
 ### Writing and Gameplay
 
-[Mario Panighetti](https://mario.panighetti.net)
+- [Mario Panighetti](https://mario.panighetti.net)
+- [Haru](https://twitter.com/200dollarHaru) (_Silent Singer_)
 
 ## Compatibility
 
