@@ -19,6 +19,7 @@ Magic items are arranged by category and listed alphabetically.
 - [Angel Blade](weapons/angel-blade.md) (rare, requires attunement)
 - [Blade of Grass](weapons/blade-of-grass.md) (legendary, requires attunement)
 - [Chromatic Pistol](weapons/chromatic-pistol.md) (uncommon)
+- [Silent Singer](weapons/silent-singer.md) (artifact, requires attunement by a bard)
 
 #### Wondrous Items
 
