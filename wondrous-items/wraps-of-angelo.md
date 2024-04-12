@@ -24,7 +24,7 @@ _**Personality.**_ The wraps contain the soul of Angelo, a great hero who volunt
 
 #### Description
 
-These sienna hand wraps were once worn by a powerful tortle monk named Angelo, who fought alongside the greatest heroes of the Soul Moon to hold back an incursion of devils. When this battle was won, the warrior imparted his consciousness into the wraps, to act as counsel should a new champion be called into action to stop a future catastrophe.
+These sienna hand wraps were once worn by a powerful tortle monk named Angelo, who fought alongside the greatest Heroes of the Soul Moon to hold back an invasion of devils during the Incursion of the Hells. When this battle was won, the warrior imparted his consciousness into the wraps, to act as counsel should a new champion be called into action to stop a future catastrophe.
 
 The wraps appear simple and utilitarian, but they faintly crackle with psionic energy that sharply hones the wielder's mind. This energy also binds the two pieces of cloth together, such that they cannot be separated as long as their magic is intact.
 
