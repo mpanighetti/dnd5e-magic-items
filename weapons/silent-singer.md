@@ -1,5 +1,7 @@
 # Silent Singer
 
+(co-created with [Haru](https://twitter.com/200dollarHaru))
+
 #### Attributes
 
 _Weapon (rapier), artifact (requires attunement by a bard)_
