@@ -21,7 +21,7 @@ _**Sentience.**_ The _Silent Singer_ is a sentient chaotic good weapon with an I
 
 The rapier can understand Common and can communicate with its wielder telepathically. While you are attuned to the _Silent Singer_, it also understands every language you know.
 
-_**Personality.**_ The _Silent Singer_ contain the soul of Ganu, a great Hero who voluntarily embodied this weapon to pass on his wisdom to adventurers protecting the Soul Moon.
+_**Personality.**_ The _Silent Singer_ contains the soul of Ganu, a great Hero who voluntarily embodied this weapon to pass on his wisdom to adventurers protecting the Soul Moon. Ganu was a creative soul who was forced by the Incursion of the Hells to relinquish his love of music and art, instead being keyholed into the more "useful" role of a rogue, but his desire to contribute to the act of artistic expression draws the blade to connect with creative individuals.
 
 #### Description
 
