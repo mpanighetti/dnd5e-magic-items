@@ -7,8 +7,8 @@ _Potion, uncommon_
 When you drink this clear potion, you are subject to the following effects:
 
 - You immediately remove all effects of allergic reactions, including any levels of exhaustion triggered by allergic reactions.
-- For the next week, you automatically succeed in all allergy saving throws.
-- At the end of the first long rest you take after drinking this potion, you gain 2d4 + 2 temporary hit points.
+- For the next week, you automatically succeed in all allergy Saving Throws.
+- At the end of the first Long Rest you take after drinking this potion, you gain 2d4 + 2 temporary hit points.
 
 #### Description
 
@@ -22,7 +22,7 @@ Even if a given world includes plants with allergy relief properties, they are u
 
 #### Crafting
 
-With sufficient time and access to the appropriate raw materials, skilled herbalists can create a _potion of allergy relief_ by using the crafting downtime activity mechanic. This requires proficiency with an herbalism kit and access to allergy-relieving herbs. The act of locating and gathering the herbs for processing into a single potion might be the foundation of its own difficult quest.
+With sufficient time and access to the appropriate raw materials, skilled herbalists can create a _potion of allergy relief_ by using the crafting downtime activity mechanic. This requires Proficiency with an herbalism kit and access to allergy-relieving herbs. The act of locating and gathering the herbs for processing into a single potion might be the foundation of its own difficult quest.
 
 ---
 

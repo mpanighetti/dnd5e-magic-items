@@ -6,7 +6,7 @@ _Wondrous item, artifact (requires attunement by a monk)_
 
 You gain a +1 to attack and damage rolls made using your unarmed strikes while wearing these wraps; this bonus increases to +2 when you reach 9th level, and +3 when you reach 16th level. The wraps have the following additional properties.
 
-_**Heroic Knowledge.**_ The wraps impart you with knowledge of Angelo's adventures in ancient times, granting you proficiency in History checks.
+_**Heroic Knowledge.**_ The wraps impart you with knowledge of Angelo's adventures in ancient times, granting you Proficiency in History checks.
 
 _**Psionic Entanglement.**_ The wraps cannot be moved more than 10 feet apart from each other and are considered to be a single magic item.
 
