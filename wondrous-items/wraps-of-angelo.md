@@ -2,7 +2,7 @@
 
 <figure>
   <img src="wraps-of-angelo-haru.png" alt="Drawing of a forearm bound in orange-brown wraps covering everything but the fingers." />
-  <figcaption>Wraps of Angelo by by <a href="https://twitter.com/200dollarHaru">Haru</a></figcaption>
+  <figcaption>Wraps of Angelo by <a href="https://twitter.com/200dollarHaru">Haru</a></figcaption>
 </figure>
 
 #### Attributes
