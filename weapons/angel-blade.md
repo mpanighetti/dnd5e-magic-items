@@ -2,7 +2,7 @@
 
 #### Attributes
  
-_Weapon (longsword), rare, requires attunement_
+_Weapon (longsword), rare, requires Attunement_
  
 These silvery blades are standard issue for all frontline celestial soldiers in a god's army. They are similar in appearance to a mortal sword, but have been blessed with holy energies to effectively smite unbelievers.
 

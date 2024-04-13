@@ -2,9 +2,9 @@
 
 #### Attributes
 
-_Wondrous item, artifact (requires attunement by a monk)_
+_Wondrous item, artifact (requires Attunement by a monk)_
 
-You gain a +1 to attack and damage rolls made using your unarmed strikes while wearing the _Wraps of Angelo_; this bonus increases to +2 when you reach 9th level, and +3 when you reach 16th level. The wraps have the following additional properties.
+You gain a +1 to attack and damage rolls made using your Unarmed Strikes while wearing the _Wraps of Angelo_; this bonus increases to +2 when you reach 9th level, and +3 when you reach 16th level. The wraps have the following additional properties.
 
 _**Heroic Knowledge.**_ The _Wraps of Angelo_ retain all living knowledge of the hero who inhabits them, and can impart you with knowledge of Angelo's adventures in ancient times. Once per day, if you spend 10 minutes touching the wraps and mentally communing with the soul within, you can cast the _commune_ spell without any material components, targeting Angelo as the divine proxy.
 
@@ -12,13 +12,13 @@ _**Psionic Entanglement.**_ The _Wraps of Angelo_ cannot be moved more than 10 f
 
 _**Shared Discipline.**_ The _Wraps of Angelo_ grant you a portion of Angelo's power and mental discipline. The wraps have 5 charges that can be spent on some of the wrap's properties. These charges can also be used as Discipline Points, and you can spend and combine them with any Discipline Points you already have from another source. The wraps regain 1d6 charges at dawn, but you can also use your Discipline Points in place of charges.
 
-_**Infused Strikes.**_ You can enhance your attacks with psionic energy. Each time you hit a creature with an unarmed strike, you grapple a creature, or a creature fails a check to escape your grapple, you can choose to expend up to 3 charges and roll that number of Martial Arts dice. You deal psychic damage to the target of your grapple or attack equal to the number rolled.
+_**Infused Strikes.**_ You can enhance your attacks with psionic energy. Each time you hit a creature with an Unarmed Strike, you Grapple a creature, or a creature fails a check to escape your Grapple, you can choose to expend up to 3 charges and roll that number of Martial Arts dice. You deal psychic damage to the target of your Grapple or attack equal to the number rolled.
 
-_**Reactive Healing.**_ You gain the ability to redirect the power of strikes and magical harm into healing energy. As a Reaction when you take damage from a weapon or spell, you can expend up to 5 charges and roll that number of Martial Arts dice. You regain a number of hit points equal to the number rolled plus your Wisdom modifier.
+_**Reactive Healing.**_ You gain the ability to redirect the power of strikes and magical harm into healing energy. As a Reaction when you take damage from a weapon or spell, you can expend up to 5 charges and roll that number of Martial Arts dice. You regain a number of Hit Points equal to the number rolled plus your Wisdom modifier.
 
 _**Sentience.**_ The _Wraps of Angelo_ are a sentient chaotic good wondrous item with an Intelligence of 10, a Wisdom of 20, and a Charisma of 10. They are unable to sense their surroundings beyond their wielder.
 
-The wraps can understand Common and can communicate with their wielder telepathically. While you are attuned to the _Wraps of Angelo_, they also understand every language you know.
+The wraps can understand Common and can communicate with their wielder telepathically. While you are Attuned to the _Wraps of Angelo_, they also understand every language you know.
 
 _**Personality.**_ The wraps contain the soul of Angelo, a great hero who voluntarily embodied this artifact to pass on his wisdom to adventurers protecting the Soul Moon. Like Angelo himself, the wraps are driven to strike down fiends without parley.
 

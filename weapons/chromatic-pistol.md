@@ -4,7 +4,7 @@
 
 _Weapon (pistol), uncommon_
 
-Whenever you fire this weapon, you can choose to change the damage type from piercing to one from the following list: cold, fire, lightning, or radiant.
+Whenever you fire this weapon, you can choose to change the damage type from Piercing to one from the following list: Cold, Fire, Lightning, or Radiant.
 
 #### Description
 

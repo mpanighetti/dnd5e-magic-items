@@ -4,7 +4,7 @@
 
 #### Attributes
 
-_Weapon (rapier), artifact (requires attunement by a bard)_
+_Weapon (rapier), artifact (requires Attunement by a bard)_
 
 You gain a +1 to attack and damage rolls made with this magic weapon; this bonus increases to +2 when you reach 9th level, and +3 when you reach 16th level. Proficiency with a rapier allows you to add your Proficiency Bonus to the attack roll for any attack you make with the _Silent Singer_. The rapier has the following additional properties.
 
@@ -15,11 +15,11 @@ _**Shared Inspiration.**_ The _Silent Singer_ grants you a portion of Ganu's pow
 _**Song of the Blade.**_ Attacks made with the _Silent Singer_ use your Charisma modifier for the attack and damage rolls instead of Strength or Dexterity. Additionally, once on each of your turns when you hit a target with the _Silent Singer_, you can expend up to 5 charges, roll a number of Bardic Inspiration die equal to the number of charges spent, and choose one of the following secondary effects:
 
 - **Sneak Attack.** You deal additional weapon damage equal to the roll.
-- **Mocking Attack.** The target subtracts the number rolled from the next saving throw it makes before the start of your next turn.
+- **Mocking Attack.** The target subtracts the number rolled from the next saving throw they make before the start of your next turn.
 
 _**Sentience.**_ The _Silent Singer_ is a sentient chaotic good weapon with an Intelligence of 20, a Wisdom of 10, and a Charisma of 10. It is unable to sense its surroundings beyond its wielder.
 
-The rapier can understand Common and can communicate with its wielder telepathically. While you are attuned to the _Silent Singer_, it also understands every language you know.
+The rapier can understand Common and can communicate with its wielder telepathically. While you are Attuned to the _Silent Singer_, it also understands every language you know.
 
 _**Personality.**_ The _Silent Singer_ contains the soul of Ganu, a great Hero who voluntarily embodied this weapon to pass on his wisdom to adventurers protecting the Soul Moon. Ganu was a creative soul who was forced by the Incursion of the Hells to relinquish his love of music and art, instead being keyholed into the more "useful" role of a rogue, but his desire to contribute to the act of artistic expression draws the blade to connect with creative individuals.
 
