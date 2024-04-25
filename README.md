@@ -16,6 +16,7 @@ Magic items are arranged alphabetically.
 | [Blade of Grass](weapons/blade-of-grass.md) | Weapon | Legendary | Yes | [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc) |
 | [Chromatic Pistol](weapons/chromatic-pistol.md) | Weapon | Uncommon | No | [Mote](https://github.com/mpanighetti/dnd5e-mote) |
 | [Crown of Annelid Affection](wondrous-items/crown-of-annelid-affection.md) | Wondrous item | Uncommon | Yes | |
+| [Instrument of the Wild](wondrous-items/instrument-of-the-wild.md) | Wondrous item | Varies | Yes (by someone able to cast rhythmancy spells) | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
 | [Potion of Allergy Relief](potions/potion-of-allergy-relief.md) | Potion | Uncommon | No | [Allergies](https://github.com/mpanighetti/dnd5e-allergies) |
 | [Selkie Skin](wondrous-items/selkie-skin.md) | Wondrous item | Uncommon | Yes (by someone other than the original selkie) | [Mote](https://github.com/mpanighetti/dnd5e-mote) |
 | [Silent Singer](weapons/silent-singer.md) | Weapon | Artifact | Yes (by a bard) | The Soul Moon |
