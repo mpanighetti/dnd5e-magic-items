@@ -1,7 +1,7 @@
 # Wraps of Angelo
 
 <figure>
-  <img src="wraps-of-angelo-haru.png" alt="Drawing of a forearm bound in orange-brown wraps covering everything but the fingers." />
+  <img src="https://github.com/Jmanrules007/Soul-Moon/raw/main/artifacts/wraps-of-angelo-haru.png" alt="Drawing of a forearm bound in orange-brown wraps covering everything but the fingers." />
   <figcaption>Wraps of Angelo by <a href="https://twitter.com/200dollarHaru">Haru</a></figcaption>
 </figure>
 
@@ -35,4 +35,4 @@ The wraps appear simple and utilitarian, but they faintly crackle with psionic e
 
 ---
 
-_Source: The Soul Moon_
+_Source: [The Soul Moon](https://github.com/Jmanrules007/Soul-Moon)_

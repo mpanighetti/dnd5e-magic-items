@@ -19,8 +19,8 @@ Magic items are arranged alphabetically.
 | [Instrument of the Wild](wondrous-items/instrument-of-the-wild.md) | Wondrous item | Varies | Yes (by someone able to cast rhythmancy spells) | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
 | [Potion of Allergy Relief](potions/potion-of-allergy-relief.md) | Potion | Uncommon | No | [Allergies](https://github.com/mpanighetti/dnd5e-allergies) |
 | [Selkie Skin](wondrous-items/selkie-skin.md) | Wondrous item | Uncommon | Yes (by someone other than the original selkie) | [Mote](https://github.com/mpanighetti/dnd5e-mote) |
-| [Silent Singer](weapons/silent-singer.md) | Weapon | Artifact | Yes (by a bard) | The Soul Moon |
-| [Wraps of Angelo](wondrous-items/wraps-of-angelo.md) | Wondrous item | Artifact |Yes (by a monk) | The Soul Moon |
+| [Silent Singer](weapons/silent-singer.md) | Weapon | Artifact | Yes (by a bard) | [The Soul Moon](https://github.com/Jmanrules007/Soul-Moon) |
+| [Wraps of Angelo](wondrous-items/wraps-of-angelo.md) | Wondrous item | Artifact |Yes (by a monk) | [The Soul Moon](https://github.com/Jmanrules007/Soul-Moon) |
 
 ## Credits
 

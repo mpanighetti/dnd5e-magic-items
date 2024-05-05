@@ -29,4 +29,4 @@ A steel rapier, crafted with brass and onyx, once wielded by the roguish member 
 
 ---
 
-_Source: The Soul Moon_
+_Source: [The Soul Moon](https://github.com/Jmanrules007/Soul-Moon)_
