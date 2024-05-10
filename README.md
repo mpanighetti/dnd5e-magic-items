@@ -12,15 +12,19 @@ Magic items are arranged alphabetically.
 
 | Magic Item | Category | Rarity | Requires Attunement | Source |
 |:-|:-|:-|:-|:-|
-| [Angel Blade](weapons/angel-blade.md) | Weapon | Rare | Yes | [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc) |
-| [Blade of Grass](weapons/blade-of-grass.md) | Weapon | Legendary | Yes | [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc) |
-| [Chromatic Pistol](weapons/chromatic-pistol.md) | Weapon | Uncommon | No | [Mote](https://github.com/mpanighetti/dnd5e-mote) |
+| [Angel Blade](weapons/angel-blade.md) | Weapon | Rare | Yes | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc)_ |
+| [Blade of Grass](weapons/blade-of-grass.md) | Weapon | Legendary | Yes | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc)_ |
+| [Chromatic Pistol](weapons/chromatic-pistol.md) | Weapon | Uncommon | No | _[Mote](https://github.com/mpanighetti/dnd5e-mote)_ |
 | [Crown of Annelid Affection](wondrous-items/crown-of-annelid-affection.md) | Wondrous item | Uncommon | Yes | |
-| [Instrument of the Wild](wondrous-items/instrument-of-the-wild.md) | Wondrous item | Varies | Yes (by someone able to cast rhythmancy spells) | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
-| [Potion of Allergy Relief](potions/potion-of-allergy-relief.md) | Potion | Uncommon | No | [Allergies](https://github.com/mpanighetti/dnd5e-allergies) |
-| [Selkie Skin](wondrous-items/selkie-skin.md) | Wondrous item | Uncommon | Yes (by someone other than the original selkie) | [Mote](https://github.com/mpanighetti/dnd5e-mote) |
-| [Silent Singer](weapons/silent-singer.md) | Weapon | Artifact | Yes (by a bard) | [The Soul Moon](https://github.com/Jmanrules007/Soul-Moon) |
-| [Wraps of Angelo](wondrous-items/wraps-of-angelo.md) | Wondrous item | Artifact |Yes (by a monk) | [The Soul Moon](https://github.com/Jmanrules007/Soul-Moon) |
+| [Emerald Signet](rings/emerald-signet.md) | Ring | Legendary | Yes | _[Chateau Rousseau](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/chateau-rousseau.md)_ |
+| [Instrument of the Wild](wondrous-items/instrument-of-the-wild.md) | Wondrous item | Varies | Yes (by someone able to cast rhythmancy spells) | _[Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy)_ |
+| [Mariner's Bow](weapons/mariners-bow.md) | Weapon | Rare | Yes | _[Chateau Rousseau](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/chateau-rousseau.md)_ |
+| [Potion of Allergy Relief](potions/potion-of-allergy-relief.md) | Potion | Uncommon | No | _[Allergies](https://github.com/mpanighetti/dnd5e-allergies)_ |
+| [Ruby Signet](rings/ruby-signet.md) | Ring | Legendary | Yes | _[Chateau Rousseau](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/chateau-rousseau.md)_ |
+| [Sapphire Signet](rings/sapphire-signet.md) | Ring | Legendary | Yes | _[Chateau Rousseau](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/chateau-rousseau.md)_ |
+| [Selkie Skin](wondrous-items/selkie-skin.md) | Wondrous item | Uncommon | Yes (by someone other than the original selkie) | _[Mote](https://github.com/mpanighetti/dnd5e-mote)_ |
+| [Silent Singer](weapons/silent-singer.md) | Weapon | Artifact | Yes (by a bard) | _[The Soul Moon](https://github.com/Jmanrules007/Soul-Moon)_ |
+| [Wraps of Angelo](wondrous-items/wraps-of-angelo.md) | Wondrous item | Artifact |Yes (by a monk) | _[The Soul Moon](https://github.com/Jmanrules007/Soul-Moon)_ |
 
 ## Credits
 
