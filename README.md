@@ -12,9 +12,9 @@ Magic items are arranged alphabetically.
 
 | Magic Item | Category | Rarity | Requires Attunement | Source |
 |:-|:-|:-|:-|:-|
-| [Angel Blade](weapons/angel-blade.md) | Weapon | Rare | Yes | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc)_ |
+| [Angel Blade](weapons/angel-blade.md) | Weapon | Rare | Yes | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
 | [Atole](wondrous-items/atole.md) | Wondrous item | Uncommon | No | [Guadaña](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/guadana.md) |
-| [Blade of Grass](weapons/blade-of-grass.md) | Weapon | Legendary | Yes | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc)_ |
+| [Blade of Grass](weapons/blade-of-grass.md) | Weapon | Legendary | Yes | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
 | [Calabaza en Tacha](wondrous-items/calabaza-en-tacha.md) | Wondrous item | Uncommon | No | [Guadaña](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/guadana.md) |
 | [Calavera de Azúcar](wondrous-items/calavera-de-azucar.md) | Wondrous item | Uncommon | No | [Guadaña](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/guadana.md) |
 | [Chromatic Pistol](weapons/chromatic-pistol.md) | Weapon | Uncommon | No | _[Mote](https://github.com/mpanighetti/dnd5e-mote)_ |
