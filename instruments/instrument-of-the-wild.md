@@ -1,6 +1,6 @@
 # Instrument of the Wild
 
-_Wondrous item (any instrument), rarity varies (requires Attunement by someone able to cast rhythmancy spells)_
+_Instrument (any), rarity varies (requires Attunement by someone able to cast rhythmancy spells)_
 
 This instrument was lovingly crafted by an artist with a profound connection to the rhythm of the natural world, and they have imbued some of their own magic into the craft and design. The instrument manifests the magical gift of its creation as one or more rhythmancy spells. It also contains charges that can be spent to cast these spells at a cost of one charge per spell level. The number of charges vary based on its rarity. The instrument regains 1d4 expended charges at dawn.
 

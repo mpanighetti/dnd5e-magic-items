@@ -21,9 +21,9 @@ Magic items are arranged alphabetically.
 | _[Crown of Annelid Affection](wondrous-items/crown-of-annelid-affection.md)_ | Wondrous item | Uncommon | Yes | |
 | _[Dulce de Chile Caótico](wondrous-items/dulce-de-chile-caotico.md)_ | Wondrous item | Uncommon | No | [Guadaña](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/guadana.md) |
 | _[Emerald Signet](rings/emerald-signet.md)_ | Ring | Legendary | Yes | _[Chateau Rousseau](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/chateau-rousseau.md)_ |
-| _[Instrument of the Wild](wondrous-items/instrument-of-the-wild.md)_ | Wondrous item | Varies | Yes (by someone able to cast rhythmancy spells) | _[Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy)_ |
+| _[Instrument of the Wild](instruments/instrument-of-the-wild.md)_ | Instrument | Varies | Yes (by someone able to cast rhythmancy spells) | _[Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy)_ |
 | _[Manzana Caramelada](wondrous-items/manzana-caramelada.md)_ | Wondrous item | Uncommon | No | [Guadaña](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/guadana.md) |
-| _[Maracas of Holding](wondrous-items/maracas-of-holding.md)_ | Wondrous item | Rare | Yes | _[Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy)_  |
+| _[Maracas of Holding](instruments/maracas-of-holding.md)_ | Instrument | Rare | Yes | _[Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy)_  |
 | _[Mariner's Bow](weapons/mariners-bow.md)_ | Weapon | Rare | Yes | _[Chateau Rousseau](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/chateau-rousseau.md)_ |
 | _[Pan de Muerto](wondrous-items/pan-de-muerto.md)_ | Wondrous item | Uncommon | No | [Guadaña](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/guadana.md) |
 | _[Potion of Allergy Relief](potions/potion-of-allergy-relief.md)_ | Potion | Uncommon | No | _[Allergies](https://github.com/mpanighetti/dnd5e-allergies)_ |
@@ -48,6 +48,7 @@ This content was written to be compatible with Dungeons & Dragons 5th Edition. I
 - This document uses new traits called **Condition Resistance** and **Condition Vulnerability**. Resistance to a condition means that a creature has Advantage on Saving Throws made to resist that condition, and vulnerability to a condition means that a creature has Disadvantage on such Saving Throws.
 - Damage and condition resistance, vulnerability, and immunity are now grouped together as **Resistances**, **Vulnerabilities**, and **Immunities** respectively.
 - Resistance, vulnerability, and immunity to Poison apply to both the damage type and the Poisoned condition.
+- This document adds a new **Instruments** category of magic items, as described in [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy/blob/main/ch-6-rhythmancy-magic-items.md#magic-item-category-instruments).
 
 ## License
 

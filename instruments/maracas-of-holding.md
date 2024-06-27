@@ -1,6 +1,6 @@
 # Maracas of Holding
 
-_Wondrous item (instrument, maracas), rare (requires Attunement)_
+_Instrument (maracas), rare (requires Attunement)_
 
 These maracas are filled with dried seeds that clatter when the instruments are shaken, and they seem to have an endless capacity for more seeds.
 
