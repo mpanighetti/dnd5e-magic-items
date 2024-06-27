@@ -12,25 +12,26 @@ Magic items are arranged alphabetically.
 
 | Magic Item | Category | Rarity | Requires Attunement | Source |
 |:-|:-|:-|:-|:-|
-| [Angel Blade](weapons/angel-blade.md) | Weapon | Rare | Yes | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
-| [Atole](wondrous-items/atole.md) | Wondrous item | Uncommon | No | [Guadaña](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/guadana.md) |
-| [Blade of Grass](weapons/blade-of-grass.md) | Weapon | Legendary | Yes | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
-| [Calabaza en Tacha](wondrous-items/calabaza-en-tacha.md) | Wondrous item | Uncommon | No | [Guadaña](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/guadana.md) |
-| [Calavera de Azúcar](wondrous-items/calavera-de-azucar.md) | Wondrous item | Uncommon | No | [Guadaña](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/guadana.md) |
-| [Chromatic Pistol](weapons/chromatic-pistol.md) | Weapon | Uncommon | No | _[Mote](https://github.com/mpanighetti/dnd5e-mote)_ |
-| [Crown of Annelid Affection](wondrous-items/crown-of-annelid-affection.md) | Wondrous item | Uncommon | Yes | |
-| [Dulce de Chile Caótico](wondrous-items/dulce-de-chile-caotico.md) | Wondrous item | Uncommon | No | [Guadaña](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/guadana.md) |
-| [Emerald Signet](rings/emerald-signet.md) | Ring | Legendary | Yes | _[Chateau Rousseau](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/chateau-rousseau.md)_ |
-| [Instrument of the Wild](wondrous-items/instrument-of-the-wild.md) | Wondrous item | Varies | Yes (by someone able to cast rhythmancy spells) | _[Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy)_ |
-| [Manzana Caramelada](wondrous-items/manzana-caramelada.md) | Wondrous item | Uncommon | No | [Guadaña](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/guadana.md) |
-| [Mariner's Bow](weapons/mariners-bow.md) | Weapon | Rare | Yes | _[Chateau Rousseau](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/chateau-rousseau.md)_ |
-| [Pan de Muerto](wondrous-items/pan-de-muerto.md) | Wondrous item | Uncommon | No | [Guadaña](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/guadana.md) |
-| [Potion of Allergy Relief](potions/potion-of-allergy-relief.md) | Potion | Uncommon | No | _[Allergies](https://github.com/mpanighetti/dnd5e-allergies)_ |
-| [Ruby Signet](rings/ruby-signet.md) | Ring | Legendary | Yes | _[Chateau Rousseau](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/chateau-rousseau.md)_ |
-| [Sapphire Signet](rings/sapphire-signet.md) | Ring | Legendary | Yes | _[Chateau Rousseau](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/chateau-rousseau.md)_ |
-| [Selkie Skin](wondrous-items/selkie-skin.md) | Wondrous item | Uncommon | Yes (by someone other than the original selkie) | _[Mote](https://github.com/mpanighetti/dnd5e-mote)_ |
-| [Silent Singer](weapons/silent-singer.md) | Weapon | Artifact | Yes (by a bard) | _[The Soul Moon](https://github.com/Jmanrules007/Soul-Moon)_ |
-| [Wraps of Angelo](wondrous-items/wraps-of-angelo.md) | Wondrous item | Artifact |Yes (by a monk) | _[The Soul Moon](https://github.com/Jmanrules007/Soul-Moon)_ |
+| _[Angel Blade](weapons/angel-blade.md)_ | Weapon | Rare | Yes | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
+| _[Atole](wondrous-items/atole.md)_ | Wondrous item | Uncommon | No | [Guadaña](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/guadana.md) |
+| _[Blade of Grass](weapons/blade-of-grass.md)_ | Weapon | Legendary | Yes | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
+| _[Calabaza en Tacha](wondrous-items/calabaza-en-tacha.md)_ | Wondrous item | Uncommon | No | [Guadaña](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/guadana.md) |
+| _[Calavera de Azúcar](wondrous-items/calavera-de-azucar.md)_ | Wondrous item | Uncommon | No | [Guadaña](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/guadana.md) |
+| _[Chromatic Pistol](weapons/chromatic-pistol.md)_ | Weapon | Uncommon | No | _[Mote](https://github.com/mpanighetti/dnd5e-mote)_ |
+| _[Crown of Annelid Affection](wondrous-items/crown-of-annelid-affection.md)_ | Wondrous item | Uncommon | Yes | |
+| _[Dulce de Chile Caótico](wondrous-items/dulce-de-chile-caotico.md)_ | Wondrous item | Uncommon | No | [Guadaña](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/guadana.md) |
+| _[Emerald Signet](rings/emerald-signet.md)_ | Ring | Legendary | Yes | _[Chateau Rousseau](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/chateau-rousseau.md)_ |
+| _[Instrument of the Wild](wondrous-items/instrument-of-the-wild.md)_ | Wondrous item | Varies | Yes (by someone able to cast rhythmancy spells) | _[Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy)_ |
+| _[Manzana Caramelada](wondrous-items/manzana-caramelada.md)_ | Wondrous item | Uncommon | No | [Guadaña](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/guadana.md) |
+| _[Maracas of Holding](wondrous-items/maracas-of-holding.md)_ | Wondrous item | Rare | Yes | _[Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy)_  |
+| _[Mariner's Bow](weapons/mariners-bow.md)_ | Weapon | Rare | Yes | _[Chateau Rousseau](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/chateau-rousseau.md)_ |
+| _[Pan de Muerto](wondrous-items/pan-de-muerto.md)_ | Wondrous item | Uncommon | No | [Guadaña](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/guadana.md) |
+| _[Potion of Allergy Relief](potions/potion-of-allergy-relief.md)_ | Potion | Uncommon | No | _[Allergies](https://github.com/mpanighetti/dnd5e-allergies)_ |
+| _[Ruby Signet](rings/ruby-signet.md)_ | Ring | Legendary | Yes | _[Chateau Rousseau](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/chateau-rousseau.md)_ |
+| _[Sapphire Signet](rings/sapphire-signet.md)_ | Ring | Legendary | Yes | _[Chateau Rousseau](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/chateau-rousseau.md)_ |
+| _[Selkie Skin](wondrous-items/selkie-skin.md)_ | Wondrous item | Uncommon | Yes (by someone other than the original selkie) | _[Mote](https://github.com/mpanighetti/dnd5e-mote)_ |
+| _[Silent Singer](weapons/silent-singer.md)_ | Weapon | Artifact | Yes (by a bard) | _[The Soul Moon](https://github.com/Jmanrules007/Soul-Moon)_ |
+| _[Wraps of Angelo](wondrous-items/wraps-of-angelo.md)_ | Wondrous item | Artifact |Yes (by a monk) | _[The Soul Moon](https://github.com/Jmanrules007/Soul-Moon)_ |
 
 ## Credits
 
