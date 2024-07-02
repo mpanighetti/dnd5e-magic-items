@@ -1,10 +1,10 @@
 # dnd5e-magic-items
 
-A collection of 5e homebrew magic items.
+This is a collection of homebrew magic items for Dungeons & Dragons 5th Edition.
 
 ## Resources
 
-If a resource was written for another 5e homebrew document, it will include a link to the source at the bottom of its page.
+If a resource was written for another homebrew document, it will include a link to the source at the bottom of its page.
 
 ### Magic Items
 
@@ -61,5 +61,7 @@ Certain materials are included under fair use exemption of the U.S. Copyright La
 _Player's Handbook (2014)_ © 2014 Wizards of the Coast LLC.
 
 _[Systems Reference Document 5.1](https://dnd.wizards.com/resources/systems-reference-document)_ ("SRD 5.1") © 2016 Wizards of the Coast LLC. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).
+
+_[The Soul Moon](https://github.com/Jmanrules007/Soul-Moon)_ © 2020 Jon.
 
 _Spelljammer: Adventures in Space_ © 2022 Wizards of the Coast LLC.
