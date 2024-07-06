@@ -7,11 +7,13 @@
 
 #### Attributes
 
-_Wondrous item, artifact (requires Attunement by a monk)_
+_Wondrous item, artifact (requires Attunement by a monk), chaotic good_
+
+|  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|
+|10 (+0)|20 (+5)|10 (+0)|
 
 You gain a +1 to attack and damage rolls made using your Unarmed Strikes while wearing the _Wraps of Angelo_; this bonus increases to +2 when you reach 9th level, and +3 when you reach 16th level. The wraps have the following additional properties.
-
-_**Heroic Knowledge.**_ The _Wraps of Angelo_ retain all living knowledge of the hero who inhabits them, and can impart you with knowledge of Angelo's adventures in ancient times. Once per day, if you spend 10 minutes touching the wraps and mentally communing with the soul within, you can cast the _commune_ spell without any material components, targeting Angelo as the divine proxy.
 
 _**Psionic Entanglement.**_ The _Wraps of Angelo_ cannot be moved more than 10 feet apart from each other and are considered to be a single magic item.
 
@@ -21,9 +23,9 @@ _**Infused Strikes.**_ You can enhance your attacks with psionic energy. Each ti
 
 _**Reactive Healing.**_ You gain the ability to redirect the power of strikes and magical harm into healing energy. As a Reaction when you take damage from a weapon or spell, you can expend up to 5 charges and roll that number of Martial Arts dice. You regain a number of Hit Points equal to the number rolled plus your Wisdom modifier.
 
-_**Sentience.**_ The _Wraps of Angelo_ are a sentient chaotic good wondrous item with an Intelligence of 10, a Wisdom of 20, and a Charisma of 10. They are unable to sense their surroundings beyond their wielder.
+_**Heroic Knowledge.**_ This relic retains all living knowledge of the hero who inhabits it, and can impart you with knowledge of that hero's adventures in ancient times. Once per day, if you spend 10 minutes touching the relic and mentally communing with the soul within, you can cast the _commune_ spell without any material components, targeting the hero as the divine proxy.
 
-The wraps can understand Common and can communicate with their wielder telepathically. While you are Attuned to the _Wraps of Angelo_, they also understand every language you know.
+_**Sentience.**_ This relic is a sentient artifact; its alignment and ability scores are listed in its attributes. It is unable to sense its surroundings beyond its wielder. The relic can understand Common and can communicate with its wielder telepathically. While you are Attuned to this relic, it also understands every language you know.
 
 _**Personality.**_ The wraps contain the soul of Angelo, a great hero who voluntarily embodied this artifact to pass on his wisdom to adventurers protecting the Soul Moon. Like Angelo himself, the wraps are driven to strike down fiends without parley.
 
