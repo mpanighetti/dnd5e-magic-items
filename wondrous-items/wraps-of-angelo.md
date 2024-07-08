@@ -17,7 +17,7 @@ You gain a +1 to attack and damage rolls made using your Unarmed Strikes while w
 
 _**Psionic Entanglement.**_ The _Wraps of Angelo_ cannot be moved more than 10 feet apart from each other and are considered to be a single magic item.
 
-_**Shared Discipline.**_ The _Wraps of Angelo_ grant you a portion of Angelo's power and mental discipline. The wraps have 5 charges that can be spent on some of the wrap's properties. These charges can also be used as Discipline Points, and you can spend and combine them with any Discipline Points you already have from another source. The wraps regain 1d6 charges at dawn, but you can also use your Discipline Points in place of charges.
+_**Shared Discipline.**_ The _Wraps of Angelo_ grant you a portion of Angelo's power and mental discipline. The wraps have 5 charges that can be spent on some of the wrap's properties. These charges can also be used as Focus Points, and you can spend and combine them with any Focus Points you already have from another source. The wraps regain 1d6 charges at dawn, but you can also use your Focus Points in place of charges.
 
 _**Infused Strikes.**_ You can enhance your attacks with psionic energy. Each time you hit a creature with an Unarmed Strike, you Grapple a creature, or a creature fails a check to escape your Grapple, you can choose to expend up to 3 charges and roll that number of Martial Arts dice. You deal psychic damage to the target of your Grapple or attack equal to the number rolled.
 
