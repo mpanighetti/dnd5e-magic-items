@@ -44,7 +44,7 @@ Magic items are arranged alphabetically.
 
 This content was written to be compatible with Dungeons & Dragons 5th Edition. It makes the following modifications from _Systems Reference Document 5.1_:
 
-- "Species" is used in place of "race" and "ancestry" or "variant" in place of "subrace".
+- "Species" is used in place of "race". "Ancestry" or "variant" is used in place of "subrace".
 - "Focus Points" is used in place of "Ki Points".
 - This document uses new traits called **Condition Resistance** and **Condition Vulnerability**. Resistance to a condition means that a creature has Advantage on Saving Throws made to resist that condition, and vulnerability to a condition means that a creature has Disadvantage on such Saving Throws.
 - Damage and condition resistance, vulnerability, and immunity are now grouped together as **Resistances**, **Vulnerabilities**, and **Immunities** respectively.
