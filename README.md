@@ -13,19 +13,19 @@ Magic items are arranged alphabetically.
 | Magic Item | Category | Rarity | Requires Attunement | Source |
 |:-|:-|:-|:-|:-|
 | _[Angel Blade](weapons/angel-blade.md)_ | Weapon | Rare | Yes | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
-| _[Atole](wondrous-items/atole.md)_ | Wondrous item | Uncommon | No | [Guadaña](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/guadana.md) |
+| _[Atole](wondrous-items/atole.md)_ | Wondrous item | Uncommon | No | _[Guadaña](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/guadana.md)_ |
 | _[Blade of Grass](weapons/blade-of-grass.md)_ | Weapon | Legendary | Yes | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
-| _[Calabaza en Tacha](wondrous-items/calabaza-en-tacha.md)_ | Wondrous item | Uncommon | No | [Guadaña](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/guadana.md) |
-| _[Calavera de Azúcar](wondrous-items/calavera-de-azucar.md)_ | Wondrous item | Uncommon | No | [Guadaña](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/guadana.md) |
+| _[Calabaza en Tacha](wondrous-items/calabaza-en-tacha.md)_ | Wondrous item | Uncommon | No | _[Guadaña](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/guadana.md)_ |
+| _[Calavera de Azúcar](wondrous-items/calavera-de-azucar.md)_ | Wondrous item | Uncommon | No | _[Guadaña](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/guadana.md)_ |
 | _[Chromatic Pistol](weapons/chromatic-pistol.md)_ | Weapon | Uncommon | No | _[Mote](https://github.com/mpanighetti/dnd5e-mote)_ |
 | _[Crown of Annelid Affection](wondrous-items/crown-of-annelid-affection.md)_ | Wondrous item | Uncommon | Yes | |
-| _[Dulce de Chile Caótico](wondrous-items/dulce-de-chile-caotico.md)_ | Wondrous item | Uncommon | No | [Guadaña](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/guadana.md) |
+| _[Dulce de Chile Caótico](wondrous-items/dulce-de-chile-caotico.md)_ | Wondrous item | Uncommon | No | _[Guadaña](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/guadana.md)_ |
 | _[Emerald Signet](rings/emerald-signet.md)_ | Ring | Legendary | Yes | _[Chateau Rousseau](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/chateau-rousseau.md)_ |
 | _[Instrument of the Wild](instruments/instrument-of-the-wild.md)_ | Instrument | Varies | Yes (by someone able to cast rhythmancy spells) | _[Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy)_ |
-| _[Manzana Caramelada](wondrous-items/manzana-caramelada.md)_ | Wondrous item | Uncommon | No | [Guadaña](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/guadana.md) |
+| _[Manzana Caramelada](wondrous-items/manzana-caramelada.md)_ | Wondrous item | Uncommon | No | _[Guadaña](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/guadana.md)_ |
 | _[Maracas of Holding](instruments/maracas-of-holding.md)_ | Instrument | Rare | Yes | _[Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy)_  |
 | _[Mariner's Bow](weapons/mariners-bow.md)_ | Weapon | Rare | Yes | _[Chateau Rousseau](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/chateau-rousseau.md)_ |
-| _[Pan de Muerto](wondrous-items/pan-de-muerto.md)_ | Wondrous item | Uncommon | No | [Guadaña](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/guadana.md) |
+| _[Pan de Muerto](wondrous-items/pan-de-muerto.md)_ | Wondrous item | Uncommon | No | _[Guadaña](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/guadana.md)_ |
 | _[Potion of Allergy Relief](potions/potion-of-allergy-relief.md)_ | Potion | Uncommon | No | _[Allergies](https://github.com/mpanighetti/dnd5e-allergies)_ |
 | _[Ruby Signet](rings/ruby-signet.md)_ | Ring | Legendary | Yes | _[Chateau Rousseau](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/chateau-rousseau.md)_ |
 | _[Sapphire Signet](rings/sapphire-signet.md)_ | Ring | Legendary | Yes | _[Chateau Rousseau](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/chateau-rousseau.md)_ |
