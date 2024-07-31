@@ -27,6 +27,7 @@ Magic items are arranged alphabetically.
 | _[Mariner's Bow](weapons/mariners-bow.md)_ | Weapon | Rare | Yes | _[Chateau Rousseau](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/chateau-rousseau.md)_ |
 | _[Pan de Muerto](wondrous-items/pan-de-muerto.md)_ | Wondrous item | Uncommon | No | _[Guadaña](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/guadana.md)_ |
 | _[Potion of Allergy Relief](potions/potion-of-allergy-relief.md)_ | Potion | Uncommon | No | _[Allergies](https://github.com/mpanighetti/dnd5e-allergies)_ |
+| _[Potion of Life](potions/potion-of-life.md)_ | Potion (Alchemist's Potion) | | No | |
 | _[Ruby Signet](rings/ruby-signet.md)_ | Ring | Legendary | Yes | _[Chateau Rousseau](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/chateau-rousseau.md)_ |
 | _[Sapphire Signet](rings/sapphire-signet.md)_ | Ring | Legendary | Yes | _[Chateau Rousseau](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/chateau-rousseau.md)_ |
 | _[Selkie Skin](wondrous-items/selkie-skin.md)_ | Wondrous item | Uncommon | Yes (by someone other than the original selkie) | _[Mote](https://github.com/mpanighetti/dnd5e-mote)_ |
@@ -50,6 +51,7 @@ This content was written to be compatible with Dungeons & Dragons 5th Edition. I
 - Damage and condition resistance, vulnerability, and immunity are now grouped together as **Resistances**, **Vulnerabilities**, and **Immunities** respectively.
 - Resistance, vulnerability, and immunity to Poison apply to both the damage type and the Poisoned condition.
 - This document adds a new **Instruments** category of magic items, as described in [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy/blob/main/ch-6-rhythmancy-magic-items.md#magic-item-category-instruments).
+- This document adds a new type of potions known as **Alchemist's Potions**, as described in the Alchemist class by balab, used with permission by the author and credited under **Third-Party Content References**.
 
 ## License
 
@@ -66,3 +68,5 @@ _[Systems Reference Document 5.1](https://dnd.wizards.com/resources/systems-refe
 _[The Soul Moon](https://github.com/Jmanrules007/Soul-Moon)_ © 2020 Jon.
 
 _Spelljammer: Adventures in Space_ © 2022 Wizards of the Coast LLC.
+
+_[Alchemist](https://docs.google.com/document/d/1FbBScXvWzPKRo62ZlqXcIMgUd_KPYoqCkMa2ZtYBN8c)_ © 2023 balab.
