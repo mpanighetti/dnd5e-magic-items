@@ -1,4 +1,4 @@
-# [Potion of Life](https://github.com/mpanighetti/dnd5e-magic-items/blob/main/potions/potion-of-life.md)
+# Potion of Life
 
 _Potion (Alchemist's Potion), Size 1 Transmutation_
 
