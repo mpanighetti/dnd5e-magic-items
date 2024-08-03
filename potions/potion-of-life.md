@@ -3,7 +3,9 @@
 _Potion (Alchemist's Potion), Size 1 Transmutation_
 
 - **Materials:** powdered zinc oxide
-- **Classes:** Alchemist[^🧪] ([House of Abiogenesis](https://github.com/mpanighetti/dnd5e-classes/blob/main/alchemist/house-of-abiogenesis.md))
+- **Prerequisites:** Alchemist[^🧪] ([House of Abiogenesis](https://github.com/mpanighetti/dnd5e-classes/blob/main/alchemist/house-of-abiogenesis.md))
+
+A pale cloud of particles swirls within tiny eddies reverberating through the bottle of clear liquid. The cloud solidifies in your mouth with a slightly chalky texture, and each crunch emits tiny jolts of electricity through your tongue and cheeks. Pairs well with soft cheeses and honeyed desserts.
 
 **Drink (8 Hours).** When you brew this potion, choose the Elemental or Ooze creature type. When a creature drinks this potion, their creature type changes to the type you chose, and they gain 5 Temporary Hit Points.
 
@@ -19,4 +21,4 @@ If an alchemist's monster is reduced to 0 Hit Points, or if you use a Potion of 
 
 _Upsizing._ At size 2 or bigger, you can apply the potion's thrown effect to a Medium-sized object to create a Medium-sized alchemist's monster with Strength 17 (+3), and at size 3 or bigger, you can apply its thrown effect to a Large-sized object to create a Large-sized monster with Strength 19 (+4). Additionally, an alchemist's monster created by throwing this potion gains increased abilities based on the potion size (as described in its stat block).
 
-[^🧪]: The Alchemist class is a third-party supplement by balab, used with permission by the author.
+[^🧪]: Alchemist class by balab.
