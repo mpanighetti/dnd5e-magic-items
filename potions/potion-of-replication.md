@@ -9,7 +9,7 @@ A solution of carbon toner is suspended within diluted agar. After adding a drop
 
 **Brew.** When you brew this potion, you create an exact fresh replica of the potion referenced in its materials. In order to be eligible for copying, the reference potion must either be an alchemist's potion of the same size as the potion you are brewing or a common potion, and you cannot use a component pouch as a substitute for it. You can copy a reference potion even if you aren't normally able to brew that potion.
 
-**Drink or Throw (Duration Matches Reference Potion).** The replica potion has identical effects to the reference potion, minus alterations. If the reference potion includes an effect which requires a creature to make a Saving Throw, the replica potion uses your potioncraft ability to determine the DC as if you were the original brewer. Any brewing choices that were made in a reference alchemist's potion are carried over to the copied potion.
+**Drink or Throw (Duration Matches Reference Potion).** The replica potion has identical effects to an unaltered version of the reference potion. If the reference potion includes an effect which requires a creature to make a Saving Throw, the replica potion uses your potioncraft ability to determine the DC as if you were the original brewer. Any brewing choices that were made in a reference alchemist's potion are carried over to the copied potion.
 
 _Upsizing._ At size 2 or bigger, you can copy bigger alchemist's potions, or potions of a rarity matching the table below.
 
