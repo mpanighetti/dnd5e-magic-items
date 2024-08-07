@@ -1,9 +1,9 @@
 # Potion of Life
 
-_Potion (Alchemist's Potion), Size 1 Transmutation_
+_Potion (Alchemist's Potion), Size 1 Transmutation_ (Alchemist[^🧪] ([House of Abiogenesis](https://github.com/mpanighetti/dnd5e-classes/blob/main/alchemist/house-of-abiogenesis.md)))
 
 - **Materials:** powdered zinc oxide
-- **Prerequisites:** Alchemist[^🧪] ([House of Abiogenesis](https://github.com/mpanighetti/dnd5e-classes/blob/main/alchemist/house-of-abiogenesis.md))
+- **Duration:** varies
 
 A pale cloud of particles swirls within tiny eddies reverberating through the bottle of clear liquid. The cloud solidifies in your mouth with a slightly chalky texture, and each crunch emits tiny jolts of electricity through your tongue and cheeks. Pairs well with soft cheeses and honeyed desserts.
 

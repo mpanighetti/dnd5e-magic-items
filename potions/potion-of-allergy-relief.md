@@ -2,7 +2,7 @@
 
 #### Attributes
 
-_Potion, uncommon_
+_Potion, Uncommon_
 
 When you drink this clear potion, you are subject to the following effects:
 
