@@ -21,7 +21,7 @@ Magic items are arranged alphabetically.
 | _[Crown of Annelid Affection](wondrous-items/crown-of-annelid-affection.md)_ | Wondrous item | Uncommon | Yes | |
 | _[Dulce de Chile Caótico](wondrous-items/dulce-de-chile-caotico.md)_ | Wondrous item | Uncommon | No | _[Guadaña](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/guadana.md)_ |
 | _[Emerald Signet](rings/emerald-signet.md)_ | Ring | Legendary | Yes | _[Chateau Rousseau](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/chateau-rousseau.md)_ |
-| _[Instrument of the Wild](instruments/instrument-of-the-wild.md)_ | Instrument | Varies | Yes (by someone able to cast rhythmancy spells) | _[Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy)_ |
+| _[Instrument of the Wild](instruments/instrument-of-the-wild.md)_ | Instrument | Varies | Yes (by someone able to cast Rhythmancy spells) | _[Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy)_ |
 | _[Manzana Caramelada](wondrous-items/manzana-caramelada.md)_ | Wondrous item | Uncommon | No | _[Guadaña](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/guadana.md)_ |
 | _[Maracas of Holding](instruments/maracas-of-holding.md)_ | Instrument | Rare | Yes | _[Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy)_  |
 | _[Mariner's Bow](weapons/mariners-bow.md)_ | Weapon | Rare | Yes | _[Chateau Rousseau](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/chateau-rousseau.md)_ |

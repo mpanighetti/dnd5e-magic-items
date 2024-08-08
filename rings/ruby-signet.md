@@ -8,7 +8,7 @@ While Attuned to this ring, you gain +1 to all your melee attack rolls and grapp
 
 Additionally, the ring has 3 charges. If an ally within 30 feet of you is hit by an attack you can see, as a Reaction, you can expend a charge to magically teleport and switch places with the ally, turning yourself into the target of the attack. The original attack roll is compared to your Armor Class, potentially turning the hit into a miss. The ring regains all its charges at dawn.
 
-**Curse.** The third time a charge has been expended, the ring glows brightly and infuses you with wild conjuration magic, subjecting you to a minor curse. While cursed in this manner, unless you have already used your reaction this round, you teleport and switch places as a reaction automatically. When the teleport occurs in this manner, the triggering attack automatically hits you, and you take an additional 1d4 Necrotic damage. The curse persists even if you end possession of or Attunement to the ring, unless another creature Attunes to it. Otherwise, the curse ends at dawn.
+**Curse.** The third time a charge has been expended, the ring glows brightly and infuses you with wild Conjuration magic, subjecting you to a minor curse. While cursed in this manner, unless you have already used your reaction this round, you teleport and switch places as a reaction automatically. When the teleport occurs in this manner, the triggering attack automatically hits you, and you take an additional 1d4 Necrotic damage. The curse persists even if you end possession of or Attunement to the ring, unless another creature Attunes to it. Otherwise, the curse ends at dawn.
 
 #### Description
 
