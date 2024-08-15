@@ -2,10 +2,10 @@
 
 _Potion (Alchemist's Potion), Size 1 Transmutation_ (Alchemist[^🧪])
 
-- **Materials:** another potion (which isn't consumed), powdered carbon worth potion size × 100gp
+- **Materials:** another potion (which isn't consumed), powdered carbon worth potion size × 100 gp
 - **Duration:** varies
 
-A solution of carbon toner is suspended within diluted agar. After adding a droplet of sample potion into the mixture, a quick electrical jolt activates the toner, causing the sample to bloom and propagate through the bottle. In moments, a reasonable facsimile of the original beverage is produced. Though sommeliers sometimes scoff at the carbon's slight bitter aftertaste, most agree that prior food pairings are still suitable.
+_After adding a droplet of sample potion into a suspension of carbon toner in diluted agar, a quick electrical jolt activates the toner, causing the sample to bloom and propagate through the bottle. In moments, a reasonable facsimile of the original beverage is produced. Though sommeliers sometimes scoff at the carbon's slight bitter aftertaste, most agree that prior food pairings are still suitable._
 
 **Brew.** When you brew this potion, you create an exact fresh replica of the potion referenced in its materials. In order to be eligible for copying, the reference potion must either be an alchemist's potion of the same size as the potion you are brewing or a common potion, and you cannot use a component pouch as a substitute for it. You can copy a reference potion even if you aren't normally able to brew that potion.
 
