@@ -1,6 +1,6 @@
 # Potion of Replication
 
-_Potion (Alchemist's Potion), Size 1 Transmutation_ (Alchemist[^🧪])
+_Potion (Alchemist's Potion), Size 1 Transmutation_ (Alchemist)
 
 - **Materials:** another potion (which isn't consumed), powdered carbon worth potion size × 100 gp
 - **Duration:** varies
@@ -21,4 +21,6 @@ _Upsizing._ At size 2 or bigger, you can copy bigger alchemist's potions, or pot
 | 4 | Very Rare |
 | 5 | Legendary |
 
-[^🧪]: Alchemist class by balab.
+---
+
+_Source: [Alchemy Lab](https://github.com/mpanighetti/dnd5e-alchemy-lab)_

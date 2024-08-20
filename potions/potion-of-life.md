@@ -1,6 +1,6 @@
 # Potion of Life
 
-_Potion (Alchemist's Potion), Size 1 Transmutation_ (Alchemist[^🧪] ([House of Abiogenesis](https://github.com/mpanighetti/dnd5e-classes/blob/main/alchemist/house-of-abiogenesis.md)))
+_Potion (Alchemist's Potion), Size 1 Transmutation_ (Alchemist ([House of Abiogenesis](https://github.com/mpanighetti/dnd5e-classes/blob/main/alchemist/house-of-abiogenesis.md)))
 
 - **Materials:** powdered zinc oxide
 - **Duration:** varies
@@ -21,4 +21,6 @@ If an alchemist's monster is reduced to 0 Hit Points, or if you use a Potion of 
 
 _Upsizing._ At size 2 or bigger, you can apply the potion's thrown effect to a Medium-sized object to create a Medium-sized alchemist's monster with Strength 17 (+3), and at size 3 or bigger, you can apply its thrown effect to a Large-sized object to create a Large-sized monster with Strength 19 (+4). Additionally, an alchemist's monster created by throwing this potion gains increased abilities based on the potion size (as described in its stat block).
 
-[^🧪]: Alchemist class by balab.
+---
+
+_Source: [Alchemy Lab](https://github.com/mpanighetti/dnd5e-alchemy-lab)_
