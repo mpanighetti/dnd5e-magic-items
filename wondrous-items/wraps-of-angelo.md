@@ -5,9 +5,11 @@
   <figcaption>Wraps of Angelo by <a href="https://twitter.com/200dollarHaru">Haru</a></figcaption>
 </figure>
 
-#### Attributes
-
 _Wondrous item, artifact (requires Attunement by a monk), chaotic good_
+
+These sienna hand wraps were once worn by a powerful tortle monk named Angelo, who fought alongside the greatest Heroes of the Soul Moon to hold back an invasion of devils during the Incursion of the Hells. When this battle was won, the warrior imparted his consciousness into the wraps, to act as counsel should a new champion be called into action to stop a future catastrophe.
+
+The wraps appear simple and utilitarian, but they faintly crackle with psionic energy that sharply hones the wielder's mind. This energy also binds the two pieces of cloth together, such that they cannot be separated as long as their magic is intact.
 
 |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|
@@ -28,12 +30,6 @@ _**Heroic Knowledge.**_ This relic retains all living knowledge of the hero who 
 _**Sentience.**_ This relic is a sentient artifact; its alignment and ability scores are listed in its attributes. It is unable to sense its surroundings beyond its wielder. The relic can understand Common and can communicate with its wielder telepathically. While you are Attuned to this relic, it also understands every language you know.
 
 _**Personality.**_ The wraps contain the soul of Angelo, a great hero who voluntarily embodied this artifact to pass on his wisdom to adventurers protecting the Soul Moon. Like Angelo himself, the wraps are driven to strike down fiends without parley.
-
-#### Description
-
-These sienna hand wraps were once worn by a powerful tortle monk named Angelo, who fought alongside the greatest Heroes of the Soul Moon to hold back an invasion of devils during the Incursion of the Hells. When this battle was won, the warrior imparted his consciousness into the wraps, to act as counsel should a new champion be called into action to stop a future catastrophe.
-
-The wraps appear simple and utilitarian, but they faintly crackle with psionic energy that sharply hones the wielder's mind. This energy also binds the two pieces of cloth together, such that they cannot be separated as long as their magic is intact.
 
 ---
 

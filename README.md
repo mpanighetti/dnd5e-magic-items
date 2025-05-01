@@ -33,7 +33,8 @@ Magic items are arranged alphabetically.
 | _[Sapphire Signet](rings/sapphire-signet.md)_ | Ring | Legendary | Yes | _[Chateau Rousseau](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/chateau-rousseau.md)_ |
 | _[Selkie Skin](wondrous-items/selkie-skin.md)_ | Wondrous item | Uncommon | Yes (by someone other than the original selkie) | _[Mote](https://github.com/mpanighetti/dnd5e-mote)_ |
 | _[Silent Singer](weapons/silent-singer.md)_ | Weapon | Artifact | Yes (by a bard) | _[The Soul Moon](https://github.com/Jmanrules007/Soul-Moon)_ |
-| _[Wraps of Angelo](wondrous-items/wraps-of-angelo.md)_ | Wondrous item | Artifact |Yes (by a monk) | _[The Soul Moon](https://github.com/Jmanrules007/Soul-Moon)_ |
+| _[Stone of Endless Feline Pursuit](wondrous-items/stone-of-endless-feline-pursuit.md)_ | Wondrous item | Legendary | No | _[The Soul Moon](https://github.com/Jmanrules007/Soul-Moon)_ |
+| _[Wraps of Angelo](wondrous-items/wraps-of-angelo.md)_ | Wondrous item | Artifact | Yes (by a monk) | _[The Soul Moon](https://github.com/Jmanrules007/Soul-Moon)_ |
 
 ## Credits
 
@@ -42,32 +43,40 @@ Magic items are arranged alphabetically.
 - [Mario Panighetti](https://mario.panighetti.net)
 - [Haru](https://twitter.com/200dollarHaru) (_Silent Singer_)
 
-## Compatibility
+## Rules Definitions
 
-This work is compatible with Dungeons & Dragons 5th Edition. It makes the following modifications from _Systems Reference Document 5.1_:
+### Compatibility
 
-- "Species" is used in place of "race". "Ancestry" or "variant" is used in place of "subrace".
-- "Focus Points" is used in place of "Ki Points".
+This content was written to be compatible with Dungeons & Dragons 5th Edition.
+
+### Rule Changes
+
+This document makes the following modifications from _SRD 5.1_ and _SRD 5.2_:
+
 - This document uses new traits called **Condition Resistance** and **Condition Vulnerability**. Resistance to a condition means that a creature has Advantage on saving throws made to resist that condition, and vulnerability to a condition means that a creature has Disadvantage on such saving throws.
-- Damage and condition resistances, vulnerabilities, and immunities are grouped together in features and stat blocks as **Resistances**, **Vulnerabilities**, and **Immunities** respectively.
+- Damage and condition resistance, vulnerability, and immunity are now grouped together as **Resistances**, **Vulnerabilities**, and **Immunities** respectively.
 - Resistance, vulnerability, and immunity to Poison apply to both the damage type and the Poisoned condition.
 - This document adds a new **Instruments** category of magic items, as described in [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy/blob/main/ch-6-rhythmancy-magic-items.md#magic-item-category-instruments).
 - This document offers new options for the Alchemist class by balab.
 
 ## License
 
-_dnd5e-magic-items_ is © 2018 Mario Panighetti. Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
+_dnd5e-magic-items_ is © 2018 Mario Panighetti. This work is licensed via [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
 
-Certain materials are included under fair use exemption of the U.S. Copyright Law and are restricted from further use. These materials, including references to game mechanics, are not approved or endorsed by Wizards of the Coast and do not constitute any license or agreement with Wizards of the Coast.
+## Licensed Content
+
+_[System Reference Document 5.1](https://dndbeyond.com/srd#SystemReferenceDocumentv51)_ ("SRD 5.1") © 2016 Wizards of the Coast LLC. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).
+
+_[The Soul Moon](https://github.com/Jmanrules007/Soul-Moon)_ © 2020 Jon. Used with permission by the author.
+
+_[Alchemist](https://docs.google.com/document/d/1FbBScXvWzPKRo62ZlqXcIMgUd_KPYoqCkMa2ZtYBN8c)_ © 2023 balab. Used with permission by the author.
+
+_[System Reference Document 5.2](https://www.dndbeyond.com/srd#SystemReferenceDocumentv52)_ ("SRD 5.2") © 2025 Wizards of the Coast LLC. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).
 
 ## Third-Party Content References
 
+The materials below are referenced under fair use exemption of the U.S. Copyright Law and are restricted from further use. These materials, including references to game mechanics, are not approved or endorsed by the copyright holders and do not constitute any license or agreement with the copyright holders.
+
 _Player's Handbook (2014)_ © 2014 Wizards of the Coast LLC.
 
-_[Systems Reference Document 5.1](https://dnd.wizards.com/resources/systems-reference-document)_ ("SRD 5.1") © 2016 Wizards of the Coast LLC. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).
-
-_[The Soul Moon](https://github.com/Jmanrules007/Soul-Moon)_ © 2020 Jon.
-
 _Spelljammer: Adventures in Space_ © 2022 Wizards of the Coast LLC.
-
-_[Alchemist](https://docs.google.com/document/d/1FbBScXvWzPKRo62ZlqXcIMgUd_KPYoqCkMa2ZtYBN8c)_ © 2023 balab. Used with permission by the author.

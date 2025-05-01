@@ -1,4 +1,5 @@
 # Calavera de Azúcar
+
 _Wondrous item, uncommon_
 
 This tiny sugar skull is decorated with flowers and bright colors. You can use an action to throw the calavera up to 20 feet. When the calavera lands, it shatters and transforms into un [esqueleto de azúcar](https://github.com/mpanighetti/dnd5e-monsters/blob/main/constructs/esqueleto-de-azucar.md) (sugar skeleton). Use the stat block on this page to represent the esqueleto when summoned.
