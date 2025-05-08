@@ -59,7 +59,7 @@ This document makes the following modifications from _SRD 5.1_ and _SRD 5.2_:
 - This document adds a new **Instruments** category of magic items, as described in [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy/blob/main/ch-6-rhythmancy-magic-items.md#magic-item-category-instruments).
 - This document offers new options for the Alchemist class by balab.
 
-## License
+## Licensing
 
 _dnd5e-magic-items_ is © 2018 Mario Panighetti. This work is licensed via [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
 
